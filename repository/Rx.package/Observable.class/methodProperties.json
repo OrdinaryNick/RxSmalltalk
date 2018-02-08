@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"subscribe:" : "RostislavNovak 2/8/2018 23:38",
+		"initialize" : "RostislavNovak 2/8/2018 23:44",
+		"observableState:" : "RostislavNovak 2/8/2018 23:54",
+		"observableState" : "RostislavNovak 2/8/2018 23:54",
+		"notify" : "RostislavNovak 2/8/2018 23:50"
+	},
+	"class" : {
+		"initialize" : "RostislavNovak 2/8/2018 23:26",
+		"subscribe:" : "RostislavNovak 2/8/2018 23:25"
+	}
+}

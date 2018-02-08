@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"initialize" : "RostislavNovak 2/9/2018 00:00",
+		"testText" : "RostislavNovak 2/8/2018 23:59",
+		"reset" : "RostislavNovak 2/9/2018 00:00",
+		"update" : "RostislavNovak 2/9/2018 00:01"
+	},
+	"class" : {
+		"initialize" : "RostislavNovak 2/9/2018 00:03",
+		"testText" : "RostislavNovak 2/9/2018 00:02",
+		"reset" : "RostislavNovak 2/9/2018 00:03",
+		"update" : "RostislavNovak 2/9/2018 00:03"
+	}
+}

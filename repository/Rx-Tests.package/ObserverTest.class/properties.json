@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "Rx-Tests",
+	"classinstvars" : [
+		"observable"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"observable"
+	],
+	"name" : "ObserverTest",
+	"type" : "normal"
+}
