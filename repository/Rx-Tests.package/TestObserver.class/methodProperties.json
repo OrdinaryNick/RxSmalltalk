@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"onComplete" : "RostislavNovak 2/11/2018 01:41",
+		"initialize" : "RostislavNovak 2/14/2018 23:16",
+		"onNext:" : "RostislavNovak 2/11/2018 01:41",
+		"isCompleted" : "RostislavNovak 2/11/2018 01:40",
+		"reset" : "RostislavNovak 2/14/2018 23:13",
+		"dataAt:" : "RostislavNovak 2/14/2018 23:18",
+		"data" : "RostislavNovak 2/11/2018 01:39"
+	},
+	"class" : { }
+}

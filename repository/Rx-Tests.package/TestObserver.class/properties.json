@@ -1,15 +1,14 @@
 {
 	"commentStamp" : "",
-	"super" : "Object",
+	"super" : "Observer",
 	"category" : "Rx-Tests",
-	"classinstvars" : [
-		"testText"
-	],
+	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"testText"
+		"data",
+		"isCompleted"
 	],
-	"name" : "Observer",
+	"name" : "TestObserver",
 	"type" : "normal"
 }

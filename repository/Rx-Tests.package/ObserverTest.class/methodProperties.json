@@ -1,14 +1,7 @@
 {
 	"instance" : {
-		"testChangeState" : "RostislavNovak 2/8/2018 23:57",
-		"testNotify" : "RostislavNovak 2/9/2018 00:14",
-		"setUp" : "RostislavNovak 2/8/2018 23:42",
-		"testSubscribe" : "RostislavNovak 2/8/2018 23:43"
+		"testArray" : "RostislavNovak 2/14/2018 23:23",
+		"testRange" : "RostislavNovak 2/14/2018 23:19"
 	},
-	"class" : {
-		"testNotify" : "RostislavNovak 2/9/2018 00:11",
-		"testObservableState" : "RostislavNovak 2/9/2018 00:07",
-		"setUp" : "RostislavNovak 2/9/2018 00:06",
-		"testSubscribe" : "RostislavNovak 2/9/2018 00:08"
-	}
+	"class" : { }
 }

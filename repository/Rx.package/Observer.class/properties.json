@@ -2,12 +2,12 @@
 	"commentStamp" : "",
 	"super" : "Object",
 	"category" : "Rx",
-	"classinstvars" : [ ],
+	"classinstvars" : [
+		"testText"
+	],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [
-		"data"
-	],
-	"name" : "Observable",
+	"instvars" : [ ],
+	"name" : "Observer",
 	"type" : "normal"
 }

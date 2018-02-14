@@ -1,5 +1,4 @@
 initialization
 initialize
-	"Create collection for observables."
-
-	observers := Set new.
+	"Createa data collection."
+	data := OrderedCollection new.

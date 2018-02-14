@@ -1,13 +1,14 @@
 {
 	"instance" : {
-		"subscribe:" : "RostislavNovak 2/8/2018 23:38",
-		"initialize" : "RostislavNovak 2/8/2018 23:44",
-		"observableState:" : "RostislavNovak 2/8/2018 23:54",
-		"observableState" : "RostislavNovak 2/8/2018 23:54",
-		"notify" : "RostislavNovak 2/8/2018 23:50"
+		"notifyError:to:" : "RostislavNovak 2/14/2018 23:04",
+		"subscribe:" : "RostislavNovak 2/14/2018 23:24",
+		"notifyCompleteTo:" : "RostislavNovak 2/14/2018 23:04",
+		"initialize" : "RostislavNovak 2/14/2018 23:02",
+		"notify:to:" : "RostislavNovak 2/14/2018 23:03",
+		"data" : "RostislavNovak 2/14/2018 23:07"
 	},
 	"class" : {
-		"initialize" : "RostislavNovak 2/8/2018 23:26",
-		"subscribe:" : "RostislavNovak 2/8/2018 23:25"
+		"range:to:" : "RostislavNovak 2/14/2018 23:01",
+		"array:" : "RostislavNovak 2/14/2018 23:07"
 	}
 }
