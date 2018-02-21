@@ -4,3 +4,4 @@ initialize
 
 	data := OrderedCollection new.
 	isCompleted  := false.
+	isError := false.

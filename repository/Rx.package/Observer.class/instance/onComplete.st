@@ -1,3 +1,3 @@
 observer
 onComplete
-	"Method to react completed observable."
+	"Method to react observable completed state."

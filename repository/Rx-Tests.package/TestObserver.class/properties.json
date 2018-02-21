@@ -7,7 +7,8 @@
 	"classvars" : [ ],
 	"instvars" : [
 		"data",
-		"isCompleted"
+		"isCompleted",
+		"isError"
 	],
 	"name" : "TestObserver",
 	"type" : "normal"

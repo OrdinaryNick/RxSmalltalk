@@ -6,6 +6,6 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "Observable",
+	"name" : "Publisher",
 	"type" : "normal"
 }

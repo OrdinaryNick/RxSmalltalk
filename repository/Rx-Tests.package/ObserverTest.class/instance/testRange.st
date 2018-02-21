@@ -2,9 +2,8 @@ tests
 testRange
 	"Test method to create observable from array."
 
-	| observable observer|
+	| observable |
 	observable := Observable range: 1 to: 5.
-	observer := TestObserver new.
 	
 	observable subscribe: observer.
 	

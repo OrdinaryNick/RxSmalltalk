@@ -7,7 +7,9 @@
 	],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
+	"instvars" : [
+		"subscription"
+	],
 	"name" : "Observer",
 	"type" : "normal"
 }

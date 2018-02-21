@@ -1,13 +1,13 @@
 {
 	"commentStamp" : "",
-	"super" : "TestCase",
-	"category" : "Rx-Tests",
+	"super" : "Subscription",
+	"category" : "Rx",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"observer"
+		"actualIndex"
 	],
-	"name" : "ObserverTest",
+	"name" : "ArraySubscription",
 	"type" : "normal"
 }

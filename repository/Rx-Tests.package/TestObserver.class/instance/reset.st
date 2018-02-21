@@ -4,3 +4,4 @@ reset
 
 	data clear.
 	isCompleted := false.
+	isError := false.

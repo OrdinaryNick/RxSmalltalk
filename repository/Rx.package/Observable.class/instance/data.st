@@ -1,4 +1,0 @@
-private
-data
-
-	^data

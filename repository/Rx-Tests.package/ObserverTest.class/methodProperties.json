@@ -1,7 +1,12 @@
 {
 	"instance" : {
-		"testArray" : "RostislavNovak 2/14/2018 23:23",
-		"testRange" : "RostislavNovak 2/14/2018 23:19"
+		"testNever" : "RostislavNovak 2/19/2018 23:30",
+		"setUp" : "RostislavNovak 2/19/2018 23:28",
+		"testEmpty" : "RostislavNovak 2/19/2018 23:28",
+		"testArray" : "RostislavNovak 2/22/2018 00:01",
+		"testJust" : "RostislavNovak 2/19/2018 23:29",
+		"testRange" : "RostislavNovak 2/19/2018 23:29",
+		"testJust2" : "RostislavNovak 2/19/2018 23:29"
 	},
 	"class" : { }
 }

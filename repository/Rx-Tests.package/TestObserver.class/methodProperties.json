@@ -1,10 +1,12 @@
 {
 	"instance" : {
 		"onComplete" : "RostislavNovak 2/11/2018 01:41",
-		"initialize" : "RostislavNovak 2/14/2018 23:16",
-		"onNext:" : "RostislavNovak 2/11/2018 01:41",
+		"onError:" : "RostislavNovak 2/19/2018 22:53",
+		"initialize" : "RostislavNovak 2/22/2018 00:12",
+		"isError" : "RostislavNovak 2/19/2018 22:54",
 		"isCompleted" : "RostislavNovak 2/11/2018 01:40",
-		"reset" : "RostislavNovak 2/14/2018 23:13",
+		"onNext:" : "RostislavNovak 2/11/2018 01:41",
+		"reset" : "RostislavNovak 2/19/2018 22:54",
 		"dataAt:" : "RostislavNovak 2/14/2018 23:18",
 		"data" : "RostislavNovak 2/11/2018 01:39"
 	},
