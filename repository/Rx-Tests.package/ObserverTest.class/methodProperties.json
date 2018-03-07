@@ -1,12 +1,20 @@
 {
 	"instance" : {
-		"testNever" : "RostislavNovak 2/19/2018 23:30",
-		"setUp" : "RostislavNovak 2/19/2018 23:28",
-		"testEmpty" : "RostislavNovak 2/19/2018 23:28",
-		"testArray" : "RostislavNovak 2/22/2018 00:01",
-		"testJust" : "RostislavNovak 2/19/2018 23:29",
-		"testRange" : "RostislavNovak 2/19/2018 23:29",
-		"testJust2" : "RostislavNovak 2/19/2018 23:29"
+		"testMap" : "RostislavNovak 2/25/2018 20:08",
+		"testBuffer" : "RostislavNovak 3/1/2018 23:52",
+		"testJust" : "RostislavNovak 2/22/2018 19:58",
+		"testScan" : "RostislavNovak 2/25/2018 20:10",
+		"testRange" : "RostislavNovak 2/28/2018 22:17",
+		"testWindow" : "RostislavNovak 3/2/2018 00:04",
+		"testWindowSkip" : "RostislavNovak 3/2/2018 00:04",
+		"testRaise" : "RostislavNovak 2/28/2018 22:17",
+		"testNever" : "RostislavNovak 2/28/2018 22:17",
+		"assertIterables:equals:" : "RostislavNovak 3/1/2018 23:52",
+		"testEmpty" : "RostislavNovak 2/28/2018 22:17",
+		"testBufferSkip" : "RostislavNovak 3/1/2018 23:51",
+		"testArray" : "RostislavNovak 2/22/2018 22:04",
+		"testJust2" : "RostislavNovak 2/22/2018 19:58",
+		"setUp" : "RostislavNovak 2/19/2018 23:28"
 	},
 	"class" : { }
 }

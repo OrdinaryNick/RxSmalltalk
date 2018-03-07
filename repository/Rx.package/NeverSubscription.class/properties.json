@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Subscription",
+	"category" : "Rx",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "NeverSubscription",
+	"type" : "normal"
+}

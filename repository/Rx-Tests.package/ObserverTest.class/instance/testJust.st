@@ -1,4 +1,4 @@
-tests
+creationTests
 testJust
 	"Tests create observable from item."
 
@@ -11,4 +11,4 @@ testJust
 	self assert: (observer isCompleted) equals: true.
 	self assert: (observer isError) equals: false.
 	self assert: (observer data size) equals: 1.
-	self assert: (observer at: 1) equals: item.
+	self assert: (observer data at: 1) equals: item.

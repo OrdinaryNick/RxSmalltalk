@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "FunctorObserver",
+	"category" : "Rx",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"buffer",
+		"skip",
+		"size",
+		"count",
+		"index"
+	],
+	"name" : "AbstractBufferedObserver",
+	"type" : "normal"
+}

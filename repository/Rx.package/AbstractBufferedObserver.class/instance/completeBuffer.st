@@ -1,0 +1,3 @@
+protected
+completeBuffer
+	"Completes buffer."

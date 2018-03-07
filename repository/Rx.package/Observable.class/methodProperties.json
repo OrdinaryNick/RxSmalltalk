@@ -1,9 +1,19 @@
 {
 	"instance" : {
-		"subscribe:" : "RostislavNovak 2/20/2018 23:59"
+		"map:" : "RostislavNovak 3/6/2018 00:00",
+		"subscribe:" : "RostislavNovak 2/20/2018 23:59",
+		"scan:" : "RostislavNovak 3/6/2018 21:22",
+		"buffer:skip:" : "RostislavNovak 3/5/2018 22:30",
+		"window:skip:" : "RostislavNovak 3/5/2018 22:30",
+		"window:" : "RostislavNovak 3/5/2018 22:27",
+		"buffer:" : "RostislavNovak 2/28/2018 22:44"
 	},
 	"class" : {
+		"never" : "RostislavNovak 2/22/2018 20:14",
 		"range:to:" : "RostislavNovak 2/14/2018 23:01",
-		"array:" : "RostislavNovak 2/21/2018 00:13"
+		"just:two:" : "RostislavNovak 2/22/2018 20:05",
+		"empty" : "RostislavNovak 2/22/2018 19:57",
+		"array:" : "RostislavNovak 2/21/2018 00:13",
+		"just:" : "RostislavNovak 2/22/2018 19:53"
 	}
 }

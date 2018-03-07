@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "FunctorObservable",
+	"category" : "Rx",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"mapFunction"
+	],
+	"name" : "MapObservable",
+	"type" : "normal"
+}

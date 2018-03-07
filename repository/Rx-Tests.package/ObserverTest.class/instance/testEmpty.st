@@ -1,4 +1,4 @@
-tests
+creationTests
 testEmpty
 	"Tests method to create observable as empty."
 
@@ -7,6 +7,6 @@ testEmpty
 
 	observable subscribe: observer.
 	
-	self assert: (observer data size) equals: 0.
 	self assert: (observer isCompleted) equals: true.
-	self assert: (observer isError) equals: false.
+	self assert: (observer isError) equals: false. 
+	self assert: (observer data size) equals: 0.

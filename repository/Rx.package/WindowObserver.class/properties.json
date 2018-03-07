@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "AbstractBufferedObserver",
+	"category" : "Rx",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"sentItems"
+	],
+	"name" : "WindowObserver",
+	"type" : "normal"
+}

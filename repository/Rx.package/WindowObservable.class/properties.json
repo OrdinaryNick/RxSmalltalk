@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "AbstractBufferedObservable",
+	"category" : "Rx",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "WindowObservable",
+	"type" : "normal"
+}

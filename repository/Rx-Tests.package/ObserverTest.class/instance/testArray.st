@@ -1,9 +1,9 @@
-tests
+creationTests
 testArray
 	"Test method to create observable from array."
 
 	| observable |
-	observable := Observable array: #( 'Nice' 5 'Ok' ).
+	observable := Observable array: { 'Nice' . 5 . 'Ok' }.
 	
 	observable subscribe: observer.
 	

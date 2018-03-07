@@ -1,0 +1,3 @@
+visibleForTesting
+collection
+	^ collection

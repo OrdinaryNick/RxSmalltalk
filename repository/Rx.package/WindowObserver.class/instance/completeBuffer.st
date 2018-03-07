@@ -1,0 +1,3 @@
+protected
+completeBuffer
+	buffer onComplete.

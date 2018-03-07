@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Observer",
+	"category" : "Rx",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"observer",
+		"done"
+	],
+	"name" : "FunctorObserver",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Observable",
+	"category" : "Rx",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "EmptyObservable",
+	"type" : "normal"
+}
