@@ -1,15 +1,16 @@
 {
 	"commentStamp" : "",
-	"super" : "Observer",
-	"category" : "Rx-Tests",
+	"super" : "Observable",
+	"category" : "Rx",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"data",
-		"isCompleted",
+		"queue",
+		"observer",
+		"done",
 		"error"
 	],
-	"name" : "TestObserver",
+	"name" : "UnicastSubject",
 	"type" : "normal"
 }

@@ -1,14 +1,15 @@
 {
 	"instance" : {
-		"onComplete" : "RostislavNovak 2/11/2018 01:41",
-		"onError:" : "RostislavNovak 2/19/2018 22:53",
-		"initialize" : "RostislavNovak 2/22/2018 00:12",
-		"isError" : "RostislavNovak 2/19/2018 22:54",
+		"data" : "RostislavNovak 2/11/2018 01:39",
 		"isCompleted" : "RostislavNovak 2/11/2018 01:40",
-		"onNext:" : "RostislavNovak 2/11/2018 01:41",
-		"reset" : "RostislavNovak 2/19/2018 22:54",
+		"onComplete" : "RostislavNovak 2/11/2018 01:41",
 		"dataAt:" : "RostislavNovak 2/14/2018 23:18",
-		"data" : "RostislavNovak 2/11/2018 01:39"
+		"initialize" : "RostislavNovak 2/22/2018 00:12",
+		"isError" : "RostislavNovak 3/8/2018 21:07",
+		"reset" : "RostislavNovak 2/19/2018 22:54",
+		"onError:" : "RostislavNovak 3/8/2018 21:07",
+		"error" : "RostislavNovak 3/8/2018 21:09",
+		"onNext:" : "RostislavNovak 2/11/2018 01:41"
 	},
 	"class" : { }
 }

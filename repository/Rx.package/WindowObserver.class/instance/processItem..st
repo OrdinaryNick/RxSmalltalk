@@ -1,7 +1,8 @@
 protected
 processItem: item
 	buffer onNext: item.
+	sentItems := sentItems + 1.
 	sentItems >= size
 		ifTrue: [ buffer onComplete.
-			buffer := nil ]
-		ifFalse: [ sentItems := sentItems + 1 ]
+			buffer := nil.
+			sentItems := 0. ]

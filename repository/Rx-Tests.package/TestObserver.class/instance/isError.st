@@ -1,4 +1,3 @@
 test-observer
 isError
-
-	^isError.
+	^ error isNotNil

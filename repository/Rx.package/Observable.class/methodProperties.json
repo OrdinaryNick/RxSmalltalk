@@ -5,14 +5,15 @@
 		"scan:" : "RostislavNovak 3/6/2018 21:22",
 		"buffer:skip:" : "RostislavNovak 3/5/2018 22:30",
 		"window:skip:" : "RostislavNovak 3/5/2018 22:30",
-		"window:" : "RostislavNovak 3/5/2018 22:27",
+		"window:" : "RostislavNovak 3/8/2018 22:32",
 		"buffer:" : "RostislavNovak 2/28/2018 22:44"
 	},
 	"class" : {
 		"never" : "RostislavNovak 2/22/2018 20:14",
-		"range:to:" : "RostislavNovak 2/14/2018 23:01",
+		"raise:" : "RostislavNovak 3/8/2018 21:28",
 		"just:two:" : "RostislavNovak 2/22/2018 20:05",
 		"empty" : "RostislavNovak 2/22/2018 19:57",
+		"range:to:" : "RostislavNovak 2/14/2018 23:01",
 		"array:" : "RostislavNovak 2/21/2018 00:13",
 		"just:" : "RostislavNovak 2/22/2018 19:53"
 	}

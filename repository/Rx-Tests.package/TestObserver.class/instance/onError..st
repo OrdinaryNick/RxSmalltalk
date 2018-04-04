@@ -1,4 +1,3 @@
 observer
 onError: exception
-
-	isError  := true.
+	error := exception

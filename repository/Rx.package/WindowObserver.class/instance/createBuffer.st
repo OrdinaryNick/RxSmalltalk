@@ -1,4 +1,5 @@
 protected
 createBuffer
-	buffer := nil.
+	buffer := UnicastSubject new.
 	sentItems := 0.
+	observer onNext: buffer

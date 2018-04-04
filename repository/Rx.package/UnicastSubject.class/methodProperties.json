@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"onError:" : "RostislavNovak 3/17/2018 00:28",
+		"sentToObserver" : "RostislavNovak 4/4/2018 23:00",
+		"subscribe:" : "RostislavNovak 4/5/2018 00:00",
+		"initialize" : "RostislavNovak 4/5/2018 00:07",
+		"popToObserverUntilEmpty" : "RostislavNovak 4/5/2018 00:08",
+		"onNext:" : "RostislavNovak 4/5/2018 00:07",
+		"onSubscribe:" : "RostislavNovak 4/3/2018 23:51",
+		"errorOrComplete" : "RostislavNovak 4/4/2018 23:39",
+		"onComplete" : "RostislavNovak 4/5/2018 00:07"
+	},
+	"class" : { }
+}
