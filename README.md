@@ -21,7 +21,7 @@ Some of transformation functions.
 ``` smalltalk
 observable := Observable range: 1 to: 12.
 (observable window: 2 skip: 3) subscribe: observer.
-observable map: [ :x | x - 1 ]
+(observable map: [ :x | x - 1 ]) subscribe: observer
 ```
 
 Some complex example
@@ -30,7 +30,6 @@ Some complex example
 | observer observable |
 observer := TranscriptObserver new.
 observable := Observable range: 1 to: 10.
-"observable := observable scan: [:x :y | ^ x + y]."
 ((((observable map: [ :x | x - 1 ]) map: [ :x | x asString , ' ']) scan: [:x :y | x == 0 ifTrue: [y] ifFalse: [x , y].])  buffer: 2 skip: 4) subscribe: observer.
 ```
 
@@ -40,6 +39,6 @@ observable := Observable range: 1 to: 10.
 
 ## Roadmap
 - Add Disposable
-- Add canability
+- Add cancelability
 - Add filter functions
 - Add other Observable functions
